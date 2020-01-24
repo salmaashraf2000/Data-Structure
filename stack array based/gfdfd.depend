@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1571574473 source:c:\users\metr\desktop\gfdfd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1571574473 c:\users\metr\desktop\gfdfd\stack.h
+
+1571574473 source:c:\users\metr\desktop\gfdfd\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1571574473 source:c:\users\metr\desktop\stack array based\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1571842970 c:\users\metr\desktop\stack array based\stack.h
+
+1571843310 source:c:\users\metr\desktop\stack array based\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1572254740 source:c:\users\metr\desktop\datastructure\stack array based\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1572254685 c:\users\metr\desktop\datastructure\stack array based\stack.h
+
+1572254841 source:c:\users\metr\desktop\datastructure\stack array based\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

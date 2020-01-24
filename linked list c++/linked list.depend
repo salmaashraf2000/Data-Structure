@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569422273 source:c:\users\metr\desktop\linked list\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"List.h"
+
+1569081781 c:\users\metr\desktop\linked list\list.h
+	"List.h"
+
+1569422273 source:c:\users\metr\desktop\linked list\list.cpp
+	<iostream>
+	"List.h"
+	<bits/stdc++.h>
+

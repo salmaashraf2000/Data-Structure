@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571857097 source:c:\users\metr\desktop\datastructure\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"List.h"
+	<bits/stdc++.h>
+
+1571858165 c:\users\metr\desktop\datastructure\list\list.h
+
+1571858165 source:c:\users\metr\desktop\datastructure\list\list.c
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+

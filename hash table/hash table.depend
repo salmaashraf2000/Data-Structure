@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1568907402 source:c:\users\metr\desktop\hash table\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"hashtable.h"
+
+1568907169 c:\users\metr\desktop\hash table\hashtable.h
+	<iostream>
+	<bits/stdc++.h>
+
+1568908125 source:c:\users\metr\desktop\hash table\hashtable.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"hashtable.h"
+
+1569069736 source:c:\users\metr\desktop\datastructure\hash table\hashtable.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"hashtable.h"
+
+1568907169 c:\users\metr\desktop\datastructure\hash table\hashtable.h
+	<iostream>
+	<bits/stdc++.h>
+
+1568907402 source:c:\users\metr\desktop\datastructure\hash table\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"hashtable.h"
+

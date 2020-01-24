@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574060255 source:c:\users\metr\desktop\doublyended\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doublyendedlinked.h"
+
+1573548807 c:\users\metr\desktop\doublyended\doublyended.h
+
+1573551998 c:\users\metr\desktop\doublyended\doublyendedlinked.h
+
+1573552091 source:c:\users\metr\desktop\doublyended\doublyended.c
+
+1573552678 source:c:\users\metr\desktop\doublyended\doublyendedlinked.c
+	<stdio.h>
+	<stdlib.h>
+	"doublyendedlinked.h"
+
+1574060255 source:c:\users\metr\desktop\datastructure\doublyended\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doublyendedlinked.h"
+
+1573551998 c:\users\metr\desktop\datastructure\doublyended\doublyendedlinked.h
+

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1571841349 source:c:\users\metr\desktop\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1571840862 c:\users\metr\desktop\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1571840872 source:c:\users\metr\desktop\queue\queue.c
+	"queue.h"
+	<stdio.h>
+	<stdlib.h>
+
+1577915886 source:c:\users\metr\desktop\datastructure\queue array based\queue.c
+	"queue.h"
+	<stdio.h>
+	<stdlib.h>
+
+1577915955 c:\users\metr\desktop\datastructure\queue array based\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+
+1577915955 c:\users\metr\desktop\datastructure\queue array based\global.h
+	<stdio.h>
+	<stdlib.h>
+
+1577916030 source:c:\users\metr\desktop\datastructure\queue array based\stack.c
+	<stdio.h>
+	<stdlib.h>
+
+1577915988 c:\users\metr\desktop\datastructure\queue array based\stack.h
+	<stdlib.h>
+	"global.h"
+
+1577916011 source:c:\users\metr\desktop\datastructure\queue array based\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+	"global.h"
+	"stack.h"
+

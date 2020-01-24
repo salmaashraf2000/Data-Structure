@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1577694325 source:c:\users\metr\desktop\dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dict1.h"
+
+1577216780 c:\users\metr\desktop\dictionary\global.h
+	<stdio.h>
+	<stdlib.h>
+
+1577216826 source:c:\users\metr\desktop\dictionary\linked.c
+	<stdlib.h>
+	"linkedList.h"
+
+1577468180 source:c:\users\metr\desktop\dictionary\dict.c
+	<stdlib.h>
+	"dict.h"
+
+1577468180 c:\users\metr\desktop\dictionary\dict.h
+	<stdlib.h>
+
+1577696364 source:c:\users\metr\desktop\dictionary\dict1.c
+	<stdio.h>
+	<stdlib.h>
+	"dict1.h"
+
+1577470927 c:\users\metr\desktop\dictionary\dict1.h
+	<stdio.h>
+	<stdlib.h>
+
+1577468180 source:c:\users\metr\desktop\datastructure\dictionary\dict.c
+	<stdlib.h>
+	"dict.h"
+
+1577468180 c:\users\metr\desktop\datastructure\dictionary\dict.h
+	<stdlib.h>
+
+1578002512 source:c:\users\metr\desktop\datastructure\dictionary\dict1.c
+	<stdio.h>
+	<stdlib.h>
+	"dict1.h"
+
+1577470927 c:\users\metr\desktop\datastructure\dictionary\dict1.h
+	<stdio.h>
+	<stdlib.h>
+

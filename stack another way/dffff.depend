@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570656159 source:c:\users\metr\desktop\dffff\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1570654377 c:\users\metr\desktop\dffff\stack.h
+
+1570656381 source:c:\users\metr\desktop\dffff\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

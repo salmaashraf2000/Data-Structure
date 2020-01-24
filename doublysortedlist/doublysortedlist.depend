@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1573388865 source:c:\users\metr\desktop\doublysortedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dsortedlist.h"
+
+1573386855 c:\users\metr\desktop\doublysortedlist\dsortedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1573389341 source:c:\users\metr\desktop\doublysortedlist\dsortedlist.c
+	"dsortedlist.h"
+	<stdio.h>
+	<stdlib.h>
+
+1576424119 source:c:\users\metr\desktop\datastructure\doublysortedlist\dsortedlist.c
+	"dsortedlist.h"
+	<stdio.h>
+	<stdlib.h>
+
+1573386855 c:\users\metr\desktop\datastructure\doublysortedlist\dsortedlist.h
+	<stdio.h>
+	<stdlib.h>
+

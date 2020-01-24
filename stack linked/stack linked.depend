@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572614887 source:c:\users\metr\desktop\stack linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stackLinked.h"
+
+1572616377 c:\users\metr\desktop\stack linked\stacklinked.h
+
+1572616750 source:c:\users\metr\desktop\stack linked\stacklinked.c
+	"stackLinked.h"
+	<stdio.h>
+	<stdlib.h>
+

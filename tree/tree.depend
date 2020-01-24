@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1575150146 source:c:\users\metr\desktop\tree\tree.c
+	"Tree.h"
+	<stdio.h>
+	<stdlib.h>
+	"Global.h"
+	"stack.h"
+
+1578159723 source:c:\users\metr\desktop\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+	"TreeS.h"
+	"stack.h"
+	"Global.h"
+	"queue.h"
+
+1578159601 c:\users\metr\desktop\tree\trees.h
+	"Global.h"
+
+1577132656 c:\users\metr\desktop\tree\global.h
+	<stdio.h>
+	<stdlib.h>
+
+1577179634 c:\users\metr\desktop\tree\stack.h
+	"Global.h"
+	<stdio.h>
+	<stdlib.h>
+
+1577179628 source:c:\users\metr\desktop\tree\stack.c
+	<stdlib.h>
+	"stack.h"
+
+1575145104 c:\users\metr\desktop\tree\tree.h
+	"Global.h"
+
+1578159657 source:c:\users\metr\desktop\tree\trees.c
+	"TreeS.h"
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1577132566 source:c:\users\metr\desktop\tree\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+
+1577132566 c:\users\metr\desktop\tree\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+	"TreeS.h"
+

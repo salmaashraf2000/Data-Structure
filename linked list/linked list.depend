@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1572639909 source:c:\users\metr\desktop\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"llist.h"
+
+1572634598 c:\users\metr\desktop\linked list\list.h
+
+1572634598 source:c:\users\metr\desktop\linked list\list.c
+	<stdlib.h>
+	"list.h"
+
+1572630756 c:\users\metr\desktop\linked list\linkedlist.h
+
+1572638895 c:\users\metr\desktop\linked list\llist.h
+	<stdio.h>
+	<stdlib.h>
+
+1572639856 source:c:\users\metr\desktop\linked list\llist.c
+	<stdio.h>
+	<stdlib.h>
+	"llist.h"
+
+1576356945 source:c:\users\metr\desktop\datastructure\linked list\list.c
+	<stdlib.h>
+	"list.h"
+
+1572634598 c:\users\metr\desktop\datastructure\linked list\list.h
+
+1576484584 source:c:\users\metr\desktop\datastructure\linked list\llist.c
+	<stdio.h>
+	<stdlib.h>
+	"llist.h"
+
+1574012687 c:\users\metr\desktop\datastructure\linked list\llist.h
+	<stdio.h>
+	<stdlib.h>
+
+1577703024 source:c:\users\metr\desktop\datastructure\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"llist.h"
+	"sparse.h"
+
+1577702434 c:\users\metr\desktop\datastructure\linked list\sparse.h
+
+1577703135 source:c:\users\metr\desktop\datastructure\linked list\sparse.c
+	<stdio.h>
+	<stdlib.h>
+	"sparse.h"
+

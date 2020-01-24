@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572627984 source:c:\users\metr\desktop\queue linked\queuelinked.c
+	"queueLinked.h"
+	<stdio.h>
+	<stdlib.h>
+
+1572627984 c:\users\metr\desktop\queue linked\queuelinked.h
+
+1572627984 source:c:\users\metr\desktop\datastructure\queue linked\queuelinked.c
+	"queueLinked.h"
+	<stdio.h>
+	<stdlib.h>
+
+1572627984 c:\users\metr\desktop\datastructure\queue linked\queuelinked.h
+

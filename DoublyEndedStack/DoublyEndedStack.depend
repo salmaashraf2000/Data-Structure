@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1574061407 source:c:\users\metr\desktop\doublyendedstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DoublyendedStack.h"
+
+1574061407 c:\users\metr\desktop\doublyendedstack\doublyendedstack.h
+
+1574061462 source:c:\users\metr\desktop\doublyendedstack\doublyendedstack.c
+	<stdio.h>
+	<stdlib.h>
+	"DoublyendedStack.h"
+
+1574061924 source:c:\users\metr\desktop\datastructure\doublyendedstack\doublyendedstack.c
+	<stdio.h>
+	<stdlib.h>
+	"DoublyendedStack.h"
+
+1574061407 c:\users\metr\desktop\datastructure\doublyendedstack\doublyendedstack.h
+
+1574061407 source:c:\users\metr\desktop\datastructure\doublyendedstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DoublyendedStack.h"
+

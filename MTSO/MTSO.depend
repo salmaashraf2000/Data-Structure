@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573406204 source:c:\users\metr\desktop\mtso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MTSO.h"
+
+1573406204 c:\users\metr\desktop\mtso\mtso.h
+
